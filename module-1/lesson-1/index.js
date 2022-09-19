@@ -1,5 +1,15 @@
 // # Модуль 1. Занятие 1. Переменные, типы и операторы
 
+
+const age = 10;
+const totalPrice = 200.74;
+const userName = 'Chelsy';
+const message = 'Привіт';
+const isOpen = true;
+const shouldConfirm = false;
+
+console.log('ejjjj', totalPrice);
+
 // ## Example 1 - Математические операторы
 
 // Выведи на экран общее количество яблок и винограда. Разницу яблок и винограда.
